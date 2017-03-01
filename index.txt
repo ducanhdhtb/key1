@@ -1,4 +1,8 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 add: Đăng ký thay đổi trong index
 
+
 Thay doi lan 4
+
+Thay doi lan 3:
+b72253fbc034a3cd3fb6c6458634c92e175357e9
